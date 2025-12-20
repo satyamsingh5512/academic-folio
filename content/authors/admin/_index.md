@@ -6,7 +6,7 @@ title: Satyam Singh
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning Engineer & Computer Vision Researcher
+role: Machine Learning Researcher | Neural Networks & Applied AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,7 +16,7 @@ organizations:
   url: https://www.nist.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Passionate researcher specializing in deep learning and computer vision at IIT Mandi. I focus on developing lightweight neural architectures for small object detection in remote sensing imagery.
+bio: Machine learning researcher focused on building efficient neural network architectures for real-world applications, spanning deep learning, computer vision, and NLP.
 
 # Interests to show in About widget
 interests:
@@ -59,9 +59,15 @@ email: "satyamsinghpx@gmail.com"
 highlight_name: false
 ---
 
-Welcome to my academic portfolio! 👋
+Hey, I'm a **Machine Learning Researcher | Neural Networks & Applied AI**
 
-I am a passionate researcher specializing in deep learning and computer vision at IIT Mandi. I focus on developing lightweight neural architectures for small object detection in remote sensing imagery, with expertise in YOLO-based architectures, multi-scale feature fusion, and deployment-ready AI systems.
+I am a machine learning researcher and engineer focused on building efficient neural network architectures for real-world applications. My work spans deep learning, computer vision, and natural language processing, with a strong emphasis on representation learning, scalability, and deployment-ready AI systems.
+
+I work on neural network–driven intelligence systems that operate under complex data distributions, limited resources, and real-world constraints, translating theoretical ideas into robust, practical models that perform reliably beyond controlled settings.
+
+My goal is to create AI systems that are efficient, interpretable, and usable at scale, bridging cutting-edge research with production-ready deployment.
+
+## Current Research
 
 Currently, I am working as a **Research Intern** at the **Computer Vision Lab, IIT Mandi**, where I focus on small object detection in high-resolution remote sensing imagery. My research specifically targets objects below 32 x 32 pixels under severe background clutter and scale imbalance, incorporating innovative multi-scale feature fusion with global context modeling.
 
