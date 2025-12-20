@@ -1,45 +1,40 @@
 
-# Academic Portfolio
+# Satyam Singh - Academic Portfolio
 
-To run locally `hugo serve` 
+Machine Learning Engineer & Computer Vision Researcher
 
-## Access [Here](https://prakharrathi25.netlify.app/)
+To run locally: `hugo serve` 
 
-The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
+## Access Portfolio
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+Visit the live portfolio at: [satyamsingh.netlify.app](https://satyamsingh.netlify.app/)
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+## About
 
-- 👉 [**Get Started**](https://wowchemy.com/templates/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+This academic portfolio showcases the research work and projects of **Satyam Singh**, a passionate researcher specializing in deep learning and computer vision at IIT Mandi. The portfolio highlights:
 
-## Crowd-funded open-source software
+- **Research Experience** at IIT Mandi Computer Vision Lab
+- **Academic Excellence** with 8.98/10 CGPA at NIST University
+- **Technical Projects** in computer vision, deep learning, and AI
+- **Competition Achievements** including top rankings in national competitions
+- **Research Contributions** in small object detection and neural architecture optimization
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+## Research Focus
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
+- Neural Networks & Deep Learning Architecture Design
+- Computer Vision & Image Processing  
+- Small Object Detection in High-Resolution Imagery
+- Multi-scale Feature Fusion & Context Modeling
+- Remote Sensing & Satellite Imagery Analysis
+- Medical Image Analysis & Healthcare AI
 
-## Ecosystem
+## Technical Expertise
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+**Programming**: Python, Java, C++, JavaScript  
+**ML/AI**: PyTorch, TensorFlow, OpenCV, NumPy, Pandas, Scikit-learn  
+**Tools**: Git, Docker, Linux, SQL, MongoDB, React, Node.js
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
+---
 
-## Demo image credits
-
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
-
-## Latest news
-<!--START_SECTION:news-->
-* [Hugo vs Quarto: Which One is Better for 2023?](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;hugo-vs-quarto&#x2F;)
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-* [What&#39;s new in v5.2?](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;whats-new-in-v5.2&#x2F;)
-* [What&#39;s new in v5.1?](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;whats-new-in-v5.1&#x2F;)
-* [Version 5.0 (February 2021)](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
-<!--END_SECTION:news-->
+Built with Hugo Academic Template - A responsive academic portfolio theme.
+# academic-folio
