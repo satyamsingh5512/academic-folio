@@ -59,18 +59,6 @@ email: "satyamsinghpx@gmail.com"
 highlight_name: false
 ---
 
-Welcome to my space! :wave:
-
-I am a data scientist with a passion for creating innovative solutions to complex problems. I completed my B.Tech in Computer Science and Engineering _(with a minor in Economics)_ from [Shiv Nadar University](https://snu.edu.in/) in 2022.
-
-Currently, I am working as a Manager at [American Express](https://www.americanexpress.com/), leading a cross-functional team of analysts. I leverage data to develop innovative strategies for global operations. My experience spans designing predictive models, optimizing processes, and implementing data-driven solutions that enhance efficiency.
-
-Previously, I was working as a researcher with the [Inria-Modal Group](https://www.inria.fr/en) to identify and isolate the causes of suicides in Nord-Pas de Calais region in France using statistical modelling and spatial econometrics. In 2021, I worked as a [Data Science for Social Good fellow](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/) at the University of Warwick in collaboration with the German Federal Minsitry for Economic Affairs (BMWK). I also dabble in Machine Learning Engineering as an open-source collaborator at the [AI4Bharat Lab at IIT-Madras](https://ai4bharat.org/).
-
-When I am not in front of a computer screen, I enjoy hiking to remote lands and cycling. I am always open to a match of lawn tennis or badminton. You can often find me reading Jeffrey Archer or humming to The Lumineers. I love indie and rock music ♪. You can know me better from my [music](https://open.spotify.com/playlist/3NY2TolyTvvV8TmGrbxgRd?si=3696e704c93b4345). In my last, Myers-Briggs personality test, I tested as an [ENTJ](https://www.16personalities.com/entj-personality).
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}} resumé {{< /staticref >}}.
-
 Welcome to my academic portfolio! 👋
 
 I am a passionate researcher specializing in deep learning and computer vision at IIT Mandi. I focus on developing lightweight neural architectures for small object detection in remote sensing imagery, with expertise in YOLO-based architectures, multi-scale feature fusion, and deployment-ready AI systems.
