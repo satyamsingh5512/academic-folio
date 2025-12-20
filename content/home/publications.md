@@ -8,13 +8,13 @@ exclude_featured: false
 # This file represents a page section.
 headless: true
 
-# Make this page disappear from home page 
-active: false
+# Make this page appear on home page 
+active: true
 
 # Order that this section appears on the page.
 weight: 95
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:

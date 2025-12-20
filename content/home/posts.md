@@ -6,14 +6,14 @@ widget: portfolio
 # This file represents a page section.
 headless: true
 
-# Make this page disappear from home page 
-active: false
+# Make this page appear on home page 
+active: true
 
 # Order that this section appears on the page.
 weight: 80
 
-title: Recent Posts
-subtitle: '' 
+title: Blog
+subtitle: 'No blogs available right now - Coming soon!' 
 
 content:
   # Page type to display. E.g. post, talk, publication...
