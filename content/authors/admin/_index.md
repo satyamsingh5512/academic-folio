@@ -71,8 +71,6 @@ My goal is to create AI systems that are efficient, interpretable, and usable at
 
 Currently, I am working as a **Research Intern** at the **Computer Vision Lab, IIT Mandi**, where I focus on small object detection in high-resolution remote sensing imagery. My research specifically targets objects below 32 x 32 pixels under severe background clutter and scale imbalance, incorporating innovative multi-scale feature fusion with global context modeling.
 
-I am pursuing my **B.Tech in Computer Science and Engineering** at **NIST University, Berhampur, Odisha**, maintaining an exceptional **CGPA of 8.98/10**. My academic journey combines rigorous coursework in machine learning, computer vision, and software engineering with hands-on research experience.
-
 ## Research Focus
 
 My research contributions include:
