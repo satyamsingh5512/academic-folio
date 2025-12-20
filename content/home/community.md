@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -12,7 +12,7 @@ headless: true
 weight: 100
 
 title: Community Building
-subtitle: The actvities I engage in to promote learning and skill development within my peers.
+subtitle: ''
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format

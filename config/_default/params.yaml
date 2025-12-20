@@ -14,19 +14,18 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: 'American Express'
-description: ''
-twitter: 'prakharrathi14'
+org_name: 'IIT Mandi'
+description: 'Machine Learning Engineer & Computer Vision Researcher specializing in deep learning and small object detection'
+twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: prakharrathi25@gmail.com
-# phone: 888 888 88 88
+email: satyamsinghpx@gmail.com
+phone: '+91 78910 66189'
 address:
-  # street: 450 Serra Mall
-  city: Gurugram
-  region: Haryana
-  postcode: '122006'
+  city: Berhampur
+  region: Odisha
+  postcode: ''
   country: India
   country_code: IN
 # coordinates:
@@ -40,16 +39,12 @@ address:
 contact_links:
   - icon: linkedin
     icon_pack: fab
-    name: DM Me
-    link: 'https://www.linkedin.com/in/prakhar-rathi/'
-  # - icon: keybase
-  #   icon_pack: fab
-  #   name: Chat on Keybase
-  #   link: 'https://keybase.io/'
-  # - icon: comments
-  #   icon_pack: fas
-  #   name: Discuss on Forum
-  #   link: 'https://discourse.gohugo.io'
+    name: Connect on LinkedIn
+    link: 'https://www.linkedin.com/in/satyam-singh-35b365335/'
+  - icon: github
+    icon_pack: fab
+    name: GitHub Profile
+    link: 'https://github.com/satyamsingh5512'
 
 # Site header
 

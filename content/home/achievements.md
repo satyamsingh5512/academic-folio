@@ -11,12 +11,24 @@ weight: 70
 
 ---
 
-* Won the ['Mindfire Quest'](https://platform.mindfire.global/quests/unveil-the-obscure-network-of-company-and-location-data-using-smart-algorithms-and-data-wrangling) organized by Swiss Re and recieved CHF 23000 cash prize. (2021)
-* [Represented Team India](https://www.linkedin.com/posts/kpmgindia_braille-kpmgic-activity-6787359392518938624-6cPi) at the Global Finals of the **KPMG Ideation Challenge (KIC) 2021** after being selected from among 12000 teams. At the global finals, we were selected amongst the Top-4 teams. (2021)
-* Dean's List for Academic Excellence given to the **Top 5% CGPA holders** in the department. (5 semesters)
-* Finalist, [**Smart India Hackathon**](https://www.sih.gov.in/). Worked on a project for Cisco Devnet using Meraki Camera and it's APIs. (2020)
-* Intel AI Edge Scholarship Recipient (2020)
-* Facebook Spark AR Scholar (2020)
-* AI Crowd Blitz Hackathon - **Rank 7/400** (2020)
-* National Science Olympiad - **State Rank 1** (2015)
-* Junior Science Talent Search Examination - **Rank 26/70000** (2014)
+## Competition Achievements
+
+* **Finalist - IIT Guwahati Techniche Tech-Expo 2025** - Top 30 out of 2400 teams, achieving top 1.25% performance in prestigious national competition. (2025)
+* **Rank 76 - IIT Kharagpur Data Science Hackathon (Kshitij) 2025** - Among top performers in one of India's most prestigious data science hackathons. (2025)
+
+## Research & Academic Excellence
+
+* **First Prize - College Research Paper Competition** - Research paper: "Fault-Tolerant Task Scheduling for Cloud Computing" focusing on novel fault-tolerance mechanisms for cloud environments. (2024)
+* **Research Paper Under Review** - "IoT for Sustainable Resource Management" focusing on IoT-enabled resource monitoring systems. (2024)
+* **Outstanding Academic Performance** - Maintained exceptional CGPA of 8.98/10 throughout B.Tech program at NIST University. (2023-Present)
+
+## Research Recognition
+
+* **Research Intern at IIT Mandi** - Selected for competitive research internship position at Computer Vision Lab, IIT Mandi for work on small object detection in remote sensing imagery. (2024-Present)
+* **Publication in Progress** - Research contributions in computer vision and small object detection being prepared for publication in top-tier conferences.
+
+## Technical Excellence
+
+* **Neural Architecture Search Innovation** - Achieved 30% latency reduction through novel automated neural architecture search techniques. (2024)
+* **High-Performance AI Systems** - Developed multiple AI systems with exceptional performance: 95% accuracy in sign language recognition, 92% accuracy in brain tumor classification, 89% F1-score in fake news detection.
+

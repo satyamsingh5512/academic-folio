@@ -9,40 +9,49 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
-subtitle: My technical skills and core competencies
+title: Technical Skills
+subtitle: Core competencies in machine learning and computer vision
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: "skills/r-project-icon"
-  icon_pack: custom
-  name: R
 - icon: "skills/python-5"
   icon_pack: custom
   name: Python
-- icon: chart-line
-  icon_pack: fas
-  name: Analytics
-- icon: "skills/djangoproject-icon"
-  icon_pack: "custom"
-  name: "Django"
-- icon: "skills/stata1"
-  icon_pack: "custom"
-  name: "STATA"
-- icon: language
-  icon_pack: fas
-  name: Natural Language Processing
-- icon: database
-  name: SQL
-  icon_pack: fas
 - icon: "skills/pytorch"
   icon_pack: "custom"
   name: PyTorch
+- icon: brain
+  icon_pack: fas
+  name: Deep Learning
+- icon: eye
+  icon_pack: fas
+  name: Computer Vision
 - icon: "skills/keras"
   icon_pack: "custom"
-  name: Keras
+  name: TensorFlow
+- icon: chart-line
+  icon_pack: fas
+  name: Machine Learning
+- icon: code
+  icon_pack: fas
+  name: Java & C++
+- icon: database
+  name: SQL & MongoDB
+  icon_pack: fas
+- icon: docker
+  icon_pack: fab
+  name: Docker
+- icon: linux
+  icon_pack: fab
+  name: Linux
+- icon: git-alt
+  icon_pack: fab
+  name: Git
+- icon: react
+  icon_pack: fab
+  name: React & Node.js
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

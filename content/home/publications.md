@@ -8,6 +8,9 @@ exclude_featured: false
 # This file represents a page section.
 headless: true
 
+# Make this page disappear from home page 
+active: false
+
 # Order that this section appears on the page.
 weight: 95
 

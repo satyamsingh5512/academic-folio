@@ -6,13 +6,14 @@ widget: accomplishments
 # This file represents a page section.
 headless: true
 
+# Make this page disappear from home page 
+active: false
+
 # Order that this section appears on the page.
 weight: 100
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-# title: 'Accomplish&shy;ments'
 title: 'Courses and Certifications'
-subtitle: 
+subtitle:  
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format

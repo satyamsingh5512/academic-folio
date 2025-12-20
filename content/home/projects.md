@@ -7,13 +7,13 @@ widget: portfolio
 headless: true
 
 # Make this page disappear from home page 
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 65
 
 title: Projects
-subtitle: 'Some of the things I have built in the past'
+subtitle: 'Research and Development Projects'
 
 content:
   # Page type to display. E.g. project.
@@ -30,16 +30,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning not
+  - name: Computer Vision
+    tag: Computer Vision
+  - name: Deep Learning
     tag: Deep Learning
-  - name: Natural Language Processing
-    tag: nlp
-  - name: Data Science
-    tag: Data Science
-  - name: Tools and Applications
-    tag: apps
-  - name: Open Source
-    tag: open-source
+  - name: Medical AI
+    tag: Medical AI
+  - name: NLP
+    tag: NLP
+  - name: AutoML
+    tag: AutoML
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
