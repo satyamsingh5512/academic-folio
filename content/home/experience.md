@@ -41,22 +41,8 @@ experience:
         * **Deployment Optimization**: Optimized inference latency, memory footprint, and parameter efficiency through architectural simplifications.
         
         **Innovation**: Multi-scale feature fusion with global context modeling, incorporating customized feature enhancement and channel-aware reweighting mechanisms.
-
-  - title: B.Tech Student - Computer Science and Engineering
-    company: NIST University
-    company_url: 'https://www.nist.edu/'
-    location: Berhampur, Odisha, India
-    date_start: '2023-08-01'
-    date_end: 
-    description: |2-
-    
-        **Current CGPA**: 8.98/10
         
-        **Relevant Coursework**:
-        * **Core Computer Science**: Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Computer Networks, Operating Systems
-        * **Machine Learning & AI**: Machine Learning Fundamentals, Deep Learning and Neural Networks, Computer Vision, Natural Language Processing, Statistical Methods
-        
-        **Technical Skills**: Python, Java, C++, JavaScript, PyTorch, TensorFlow, OpenCV, NumPy, Pandas, Scikit-learn, Git, Docker, Linux, SQL, MongoDB, React, Node.js
+        **Academic Performance**: CGPA: 8.98/10
 
 design:
   columns: '2'

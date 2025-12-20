@@ -12,8 +12,6 @@ role: Machine Learning Researcher | Neural Networks & Applied AI
 organizations:
 - name: IIT Mandi - Computer Vision Lab
   url: https://www.iitmandi.ac.in/
-- name: NIST University
-  url: https://www.nist.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Machine learning researcher focused on building efficient neural network architectures for real-world applications, spanning deep learning, computer vision, and NLP.
@@ -32,9 +30,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Bachelor of Technology in Computer Science and Engineering
-    institution: NIST University, Berhampur, Odisha
-    year: 2023-Present
+  - course: Computer Science and Engineering
+    institution: ""
+    year: ""
     grade: "CGPA: 8.98/10"
 
 # Social/Academic Networking
