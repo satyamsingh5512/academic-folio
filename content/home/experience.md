@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Research Experience
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -23,26 +23,26 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Research Intern - Computer Vision and Remote Sensing
-    company: Indian Institute of Technology (IIT) Mandi
+  - title: Machine Learning Research Intern
+    company: Indian Institute of Technology Mandi
     company_url: 'https://www.iitmandi.ac.in/'
     location: Mandi, Himachal Pradesh, India
-    date_start: '2024-06-01'
-    date_end: 
+    date_start: '2025-05-01'
+    date_end: '2025-08-31'
     description: |2-
-    
-        **Research Focus**: Small object detection in high-resolution remote sensing imagery, with specific emphasis on objects below 32 x 32 pixels under severe background clutter and scale imbalance.
-        
-        **Key Contributions**:
-        * **YOLO Architecture Redesign**: Redesigned YOLO-based detection architectures by incorporating customized feature enhancement, multi-scale feature fusion, and global context modeling components.
-        * **Contextual Representation Learning**: Investigated local contextual representation learning through multi-branch convolutional structures and receptive field expansion.
-        * **Feature Fusion Strategies**: Developed refined multi-scale feature fusion strategies to mitigate semantic inconsistencies between shallow and deep feature representations.
-        * **Global Context Modeling**: Integrated global context modeling mechanisms to capture long-range spatial and cross-channel dependencies.
-        * **Deployment Optimization**: Optimized inference latency, memory footprint, and parameter efficiency through architectural simplifications.
-        
-        **Innovation**: Multi-scale feature fusion with global context modeling, incorporating customized feature enhancement and channel-aware reweighting mechanisms.
-        
-        **Academic Performance**: CGPA: 8.98/10
+        * Researched deep learning–based computer vision methods for small-object detection in high-resolution remote sensing imagery.
+        * Designed and optimized attention-based architectures and implemented GPU-accelerated models using PyTorch and CUDA for efficient training and inference.
+        * Applied models to agricultural and environmental monitoring datasets and contributed experimental results toward ongoing research publications.
+
+  - title: Machine Learning Project Intern
+    company: Indian Institute of Technology Kanpur
+    company_url: 'https://www.iitk.ac.in/'
+    location: Kanpur, Uttar Pradesh, India
+    date_start: '2024-05-01'
+    date_end: '2024-06-30'
+    description: |2-
+        * Collaborated with technology, operations, and capability teams to support the migration of GNA operations to the Genesys platform, ensuring system reliability and data integrity.
+        * Assisted in validation, testing, and monitoring workflows impacting 1,200+ agents during an 1-month phased rollout, contributing to stable production operations.
 
 design:
   columns: '2'
