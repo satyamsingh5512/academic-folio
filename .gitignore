@@ -1,8 +1,32 @@
-# IDEs
-.idea/
+# Next.js
+/.next/
+/out/
+/build
+.next
+next-env.d.ts
 
-# Hugo
-/resources/
-public/
-jsconfig.json
-node_modules/
+# Dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Testing
+/coverage
+*.log
+
+# Misc
+.DS_Store
+*.pem
+.env
+.env*.local
+.vercel
+
+# Hugo (legacy)
+/public/
+/resources/_gen/
+.hugo_build.lock
