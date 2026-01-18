@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Satyam Singh # Website name
-baseurl: 'https://satyamsingh.netlify.app/' # Website URL
+baseurl: '/' # Website URL
 copyright: '© 2025 Satyam Singh' # Footer text, e.g. '© {year} Me'
 
 ############################
